@@ -1,0 +1,5 @@
+package com.moono.config;
+
+public class WebConfig {
+
+}
